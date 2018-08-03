@@ -35,22 +35,7 @@ public class GenericLib {
 			}	
 		}
 	}
-	public static void dropDown(WebElement locator, String value){
-		Select dd = new Select(locator);
-		dd.selectByValue(value);
-		//dd.selectByVisibleText(value);
-	}
-	
-    public static void mouseSendData(WebDriver driver, WebElement locator, String value){
-    	Actions ac = new Actions(driver);
-    	ac.moveToElement(locator).click().perform();
-    	ac.sendKeys(value).perform();	
-    }
-    
-    public static void mouseClick(WebDriver driver, WebElement locator){
-    	Actions ac = new Actions(driver);
-    	ac.moveToElement(locator).click().perform();
-    }
+
 	
 
 }

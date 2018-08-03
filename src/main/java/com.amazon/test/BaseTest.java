@@ -10,20 +10,18 @@ import com.amazon.config.TestConfig;
 
 import io.appium.java_client.AppiumDriver;
 public abstract class BaseTest{
-		protected static AppiumDriver<WebElement> loopDriver;		
+		protected static AppiumDriver<WebElement> amazonDriver;
 		@BeforeTest(alwaysRun=true)
 		public abstract void beforeTest();		
 		@BeforeSuite(alwaysRun=true)
 		public void setup() throws MalformedURLException{
-			loopDriver = TestConfig.getDriver();
-			Set<String> contextHandles = loopDriver.getContextHandles();
+			amazonDriver = TestConfig.getDriver();
+			Set<String> contextHandles = amazonDriver.getContextHandles();
 			for (String s : contextHandles) {
 				System.out.println("Context : " + s);
 				if (s.contains("WEBVIEW")) {
-					System.out.println("Start context change");
-					loopDriver.context(s);
-					System.out.println("Context changed");
-				}	
+					amazonDriver.context(s);
+				}
 			}
 		}
 		@AfterSuite(alwaysRun=true)

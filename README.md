@@ -1,3 +1,1 @@
-"# altruhelp" 
-"# amazonapp" 
 "# amazonappautomation" 
