@@ -12,6 +12,7 @@ import io.appium.java_client.android.AndroidDriver;
 public class TestConfig {
 	static WebDriver amazonWeb;
 	public static AppiumDriver<WebElement> getDriver() throws MalformedURLException{
+		    System.setProperty("webdriver.chrome.driver", "/Applications/chromedriver");
 			DesiredCapabilities caps = new DesiredCapabilities();
 			caps.setCapability("deviceName", "OnePlus6");
 			caps.setCapability("udid", "2927f3e7");

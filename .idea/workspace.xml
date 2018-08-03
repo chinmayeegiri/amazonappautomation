@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62e5e809-89fa-4847-86fe-4313944473c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazon/config/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.amazon/config/TestConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazon/helper/BasePageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.amazon/helper/BasePageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazon/helper/GenericLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.amazon/helper/GenericLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazon/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.amazon/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazon/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.amazon/test/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amazon/test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.amazon/test/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.amazon/config/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.amazon/config/TestConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/config/TestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/config/TestConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/helper/BasePageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/helper/BasePageObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/helper/GenericLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/helper/GenericLib.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/test/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/test/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/amazon/test/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amazon/test/LoginPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Testng.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,10 +22,11 @@
     <session id="2123422491">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,14 +51,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="77" />
-          <entry key="xml" value="35" />
+          <entry key="java" value="107" />
+          <entry key="xml" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="77" />
-          <entry key="XML" value="35" />
+          <entry key="JAVA" value="107" />
+          <entry key="XML" value="64" />
         </counts>
       </usages-collector>
     </session>
@@ -80,11 +70,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-222">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="280">
+              <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -93,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -101,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="105">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/config/TestConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/test/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="240">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,11 +145,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/test/LoginPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="150">
               <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
               <folding>
                 <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,6 +162,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -179,7 +174,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/amazon/config/TestConfig.java" />
         <option value="$PROJECT_DIR$/src/main/amazon/test/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/main/amazon/test/LoginPageTest.java" />
@@ -193,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com.amazon/test/LoginPageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.amazon/helper/GenericLib.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.amazon/config/TestConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -215,8 +210,6 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -233,35 +226,32 @@
               <item name="AmazonApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="AmazonApp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="AmazonApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="AmazonApp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="AmazonApp" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="AmazonApp" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com.amazon" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533281432960" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533303188652" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -332,50 +322,50 @@
       <updated>1533272483882</updated>
       <workItem from="1533272488301" duration="1943000" />
       <workItem from="1533274662054" duration="1701000" />
-      <workItem from="1533276419467" duration="4533000" />
+      <workItem from="1533276419467" duration="14499000" />
+      <workItem from="1533300528341" duration="2629000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 02m 11s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 15h 30m 27s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 04m 54s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 15h 32m 06s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 06m 23s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 15h 58m 42s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 06m 38s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 17h 48m 39s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 06m 43s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 18h 20m 42s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 08m 51s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 18h 24m 53s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 27m 57s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 18h 43m 47s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 31m 03s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 18h 46m 39s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 49m 28s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 18h 51m 12s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 12h 50m 37s.xml">
+    <history-entry file="_Users_shravanvishwakarma_amazonappautomation_src_test_java_Testng_xml - 2018.08.03 at 19h 03m 19s.xml">
       <configuration name="/Users/shravanvishwakarma/amazonappautomation/src/test/java/Testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8177000" />
+    <option name="totallyTimeSpent" value="20772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="781" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,7 +374,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36139333" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37300435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,7 +383,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3280116" />
+      <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,7 +404,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Testng.xml" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -439,10 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
-          <folding>
-            <element signature="e#3235#3236#0" expanded="true" />
-            <element signature="e#3276#3277#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -453,58 +439,30 @@
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="105">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/test/LoginPageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/config/TestConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/test/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="75">
+          <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-222">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/helper/GenericLib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
@@ -515,15 +473,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/config/TestConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/helper/GenericLib.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/test/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.amazon/test/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AmazonApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
